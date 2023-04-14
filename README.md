@@ -1,5 +1,9 @@
 # Game:Bit教學
 
+行前問卷：
+
+* [Game:Bit行前問卷](https://forms.gle/B74kxd61orTpBicv6)
+
 匿名問問題：
 
 * [Slido](https://app.sli.do/event/2d854hn57T8hdHm55QP5A1)
