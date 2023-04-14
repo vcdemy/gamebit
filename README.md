@@ -1,5 +1,11 @@
 # Game:Bit教學
 
+匿名問問題：
+
+* [Slido](https://app.sli.do/event/2d854hn57T8hdHm55QP5A1)
+
+ICShop官方教學：
+
 * [Game:Bit 教學系列(一)：快速上手 123](https://www.circuspi.com/index.php/2023/01/04/gamebit-introduction/)
 * [Game:Bit 教學系列(二)：認識操作介面](https://www.circuspi.com/index.php/2023/01/06/gamebit-operation-interface/)
 * [Game:Bit 教學系列(三)：建立角色概念](https://www.circuspi.com/index.php/2023/01/11/gamebit-role-conception/)
