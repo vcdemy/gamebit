@@ -1,8 +1,8 @@
 # Game:Bit教學
 
-行前問卷：
+MakeCode Arcade網址：
 
-* [Game:Bit行前問卷](https://forms.gle/B74kxd61orTpBicv6)
+* [https://arcade.makecode.com/beta?hw=n3](https://arcade.makecode.com/beta?hw=n3)
 
 匿名問問題：
 
