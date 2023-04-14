@@ -1,4 +1,4 @@
-# gamebit教學
+# Game:Bit教學
 
 * [Game:Bit 教學系列(一)：快速上手 123](https://www.circuspi.com/index.php/2023/01/04/gamebit-introduction/)
 * [Game:Bit 教學系列(二)：認識操作介面](https://www.circuspi.com/index.php/2023/01/06/gamebit-operation-interface/)
