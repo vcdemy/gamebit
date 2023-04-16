@@ -4,10 +4,6 @@ MakeCode Arcade網址：
 
 * [https://arcade.makecode.com/beta?hw=n3](https://arcade.makecode.com/beta?hw=n3)
 
-匿名問問題：
-
-* [Slido](https://app.sli.do/event/2d854hn57T8hdHm55QP5A1)
-
 ICShop官方教學：
 
 * [Game:Bit 教學系列(一)：快速上手 123](https://www.circuspi.com/index.php/2023/01/04/gamebit-introduction/)
